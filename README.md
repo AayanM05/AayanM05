@@ -6,7 +6,7 @@ two production-ready projects, completed an internship at a software firm in Pun
 now expanding into **Java Spring Boot** to strengthen my backend skill set.
 
 I care about writing clean, maintainable code, understanding how things work under the hood,
-and building projects that actually do something useful — not just tutorial clones.
+and building projects that actually do something useful, not just tutorial clones.
 
 ---
 
@@ -55,11 +55,7 @@ and building projects that actually do something useful — not just tutorial cl
 ---
 ## 📫 Get In Touch
 
-[
-
-![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)
-
-](mailto:aayanmulla7777@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aayanmulla7777@gmail.com)
 
 I'm actively looking for **fresher Full Stack Developer** roles in Pune / Mumbai. Feel free to reach out!
 
