@@ -1,53 +1,65 @@
-# Hi, I'm Aayan Mulla 👋
+# Hey there, I'm Aayan Mulla 👋
 
-**BE Computer Engineering (AI & Data Science) | Dr. D. Y. Patil College of Engineering and Innovation, Pune**
+I'm a final-year **Computer Engineering** student from **Pune, India** who enjoys building
+full-stack applications that solve real problems. I started with **Django and Python**, shipped
+two production-ready projects, completed an internship at a software firm in Pune, and I'm
+now expanding into **Java Spring Boot** to strengthen my backend skill set.
 
-I'm a final-year engineering student passionate about building real-world web applications and integrating AI/ML into practical systems. I've worked on projects involving Django, YOLOv8, REST APIs, payment gateways, and multi-role architectures.
+I care about writing clean, maintainable code, understanding how things work under the hood,
+and building projects that actually do something useful — not just tutorial clones.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL, HTML5, CSS3  
-**Frameworks:** Django, Django REST Framework, Bootstrap 5  
-**AI/ML:** YOLOv8 (Ultralytics), PyTorch, OpenCV, NumPy  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**Tools:** Git & GitHub, VS Code, Postman, Celery, Redis  
-**Deployment:** Railway, Gunicorn, WhiteNoise  
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 📊 A Bit More About Me
 
-### ♻️ [eRecyclo — AI-Powered E-Waste Management Platform](https://github.com/yourusername/eRecyclo)
-> Django 4.2 · YOLOv8 · PostgreSQL · Celery · Redis · Railway
-
-Full-stack platform connecting clients, vendors, and collectors for responsible e-waste disposal. YOLOv8 auto-classifies uploaded e-waste photos (laptop, battery, mobile, etc.) with confidence scoring. Features OTP-verified pickup/delivery, wallet payments, gamification (Eco Points), PDF certificates, and a custom admin dashboard.
-
-**4 user roles · 13 item status states · Haversine GPS matching · ReportLab PDF generation**
-
----
-
-### 🛒 [SeizeDeals — Django E-Commerce Platform](https://github.com/yourusername/SeizeDeals)
-> Django 4.2 · Razorpay · Bootstrap 5 · SQLite · AWS EB ready
-
-Feature-rich e-commerce site with user authentication, product categorization, cart with size/color variations, Razorpay payment gateway (UPI/Cards/Net Banking), automated order confirmation emails, and a custom admin panel.
-
-**Internship Project @ Elite Softwares Pvt. Ltd., Pune | Dec 2024 – Feb 2025**
+- 🎓 BE Computer Engineering — Dr. D. Y. Patil College of Engineering and Innovation, Varale, Pune (2022–2026)
+- 💼 Interned at **Elite Softwares Pvt. Ltd.**, Pune as a Python-Django Intern (Dec 2024 – Feb 2025)
+- 🌱 I learn by building — every project I've worked on started from a real problem, not a tutorial
+- 💬 Ask me about Django, REST APIs, PostgreSQL, or how to structure a backend project properly
+- 📍 Based in Pune, Maharashtra
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Get In Touch
 
-![Aayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+I'm actively looking for **fresher Full Stack Developer** roles in Pune / Mumbai. Feel free to reach out!
 
 ---
 
-*Open to opportunities in Full Stack Development (Django / Java Spring Boot) and AI/ML integration roles in Pune/Mumbai.*
+*"Build things. Break things. Fix them. Repeat."*
