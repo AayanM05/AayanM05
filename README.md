@@ -1,6 +1,6 @@
 # Hey there, I'm Aayan Mulla 👋
 
-I'm a final-year **Computer Engineering** student from **Pune, India** who enjoys building
+I'm a final-year **Computer Engineering** student from **Pune, Maharashtra, India** who enjoys building
 full-stack applications that solve real problems. I started with **Django and Python**, shipped
 two production-ready projects, completed an internship at a software firm in Pune, and I'm
 now expanding into **Java Spring Boot** to strengthen my backend skill set.
@@ -46,17 +46,16 @@ and building projects that actually do something useful — not just tutorial cl
 
 ## 📊 A Bit More About Me
 
-- 🎓 BE Computer Engineering — Dr. D. Y. Patil College of Engineering and Innovation, Varale, Pune (2022–2026)
-- 💼 Interned at **Elite Softwares Pvt. Ltd.**, Pune as a Python-Django Intern (Dec 2024 – Feb 2025)
-- 🌱 I learn by building — every project I've worked on started from a real problem, not a tutorial
-- 💬 Ask me about Django, REST APIs, PostgreSQL, or how to structure a backend project properly
-- 📍 Based in Pune, Maharashtra
+- 🎓 BE Computer Engineering — Dr. D. Y. Patil College of Engineering and Innovation, Varale, Pune (2023–2026).
+- 💼 Interned at **Elite Softwares Pvt. Ltd.**, Pune as a Python-Django Intern (Dec 2024 – Feb 2025).
+- 🌱 I learn by building, every project I've worked on started from a real problem, not a tutorial.
+- 💬 Ask me about Django, REST APIs, PostgreSQL, or how to structure a backend project properly.
+- 📍 Based in Pune, Maharashtra, India 
 
 ---
-
 ## 📫 Get In Touch
 
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto: aayanmulla7777@gmail.com)
 
 I'm actively looking for **fresher Full Stack Developer** roles in Pune / Mumbai. Feel free to reach out!
 
